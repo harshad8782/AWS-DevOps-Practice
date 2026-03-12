@@ -174,17 +174,17 @@ Access Keys → For programmatic CLI access
 
 ### Screenshots
 
-📸 **IAM User Sign In:**
-
-![IAM Login](screenshots/IAM_user_login.png)
-
----
-
 📸 **IAM User Created Successfully:**
 
 ![IAM User](screenshots/IAM_user.png)
 
 > User `harshad` created with console sign-in URL ✅
+
+---
+
+📸 **IAM User Sign In:**
+
+![IAM Login](screenshots/IAM_user_login.png)
 
 ---
 

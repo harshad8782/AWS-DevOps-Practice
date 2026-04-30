@@ -343,7 +343,7 @@ GitHub Actions (CI)
 
 ## 👨‍💻 Author
 
-**Harshad Raurale**  
+**Harshad Jagdish Raurale**  
 DevOps / Cloud Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-harshad8782-181717?style=flat&logo=github)](https://github.com/harshad8782)
